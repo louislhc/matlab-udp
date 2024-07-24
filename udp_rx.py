@@ -7,7 +7,6 @@ Example usage from Linux:
 W. Newhall 1/2020 (original)
 """
 
-
 import matlab_udp
 import argparse
 
